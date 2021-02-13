@@ -1,0 +1,64 @@
+.nav{
+	
+	background:#34495e;
+	columns:7;
+	position:sticky;
+	top:0px;
+	column-rule:1px solid;
+	
+}
+.nav a{
+	text-decoration:none;
+	text-align:center;
+	padding:15px;
+	color:#ecf0f1;
+	font-size:20px;
+	display:block;
+	
+}
+ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+	
+	
+}
+.nav a:hover{
+	background:#f39c12;
+}
+
+
+
+.x{
+	background:#7FFFD4;
+}
+
+
+
+
+
+
+
+/* table 5 ar css now start */
+.sabbir{
+	background:#CCFC67;
+  margin: auto;
+  width: 80%;
+  border: 1px solid #CCFC67;
+  padding: 10px;
+  text-align: center;
+  
+}
+.ab h2 {
+	color:red;
+}
+.sa h2{
+	color:red;
+}
+.abc h2{
+	color:red;
+}
+.as input{
+	padding:2%;
+	background:#16A9FF;
+}

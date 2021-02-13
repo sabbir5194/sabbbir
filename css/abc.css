@@ -1,0 +1,40 @@
+.nav{
+	
+	background:#34495e;
+	columns:7;
+	position:sticky;
+	top:0px;
+	column-rule:1px solid;
+	
+}
+.nav a{
+	text-decoration:none;
+	text-align:center;
+	padding:15px;
+	color:#ecf0f1;
+	font-size:20px;
+	display:block;
+	
+}
+ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+	
+	
+}
+.nav a:hover{
+	background:#f39c12;
+}
+
+
+
+
+.sabbir{
+	float:right;
+	display:block;
+}
+.sab{
+	float:left;
+}
+
